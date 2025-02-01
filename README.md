@@ -61,11 +61,15 @@ git clone https://github.com/Alfred-developer/alerts-component.git
 ```bash
 cd alerts-component
 ```
-**3. Access the folder**
+**3. Install Expo CLI**
 ```bash
 npm install -g expo-cli exp
 ```
-**4. Access the folder**
+**4. Install dependencies**
+```bash
+npm i
+```
+**5. Run proyect**
 ```bash
 npx expo start
 ```
